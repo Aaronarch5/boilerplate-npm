@@ -3,6 +3,13 @@
 	"description": "Proyecto NodeJS",
 	"keywords": [ "WebXR", "Cirugia", "freecodecamp" ],
 	"license": "IPN",
-	"version": "1.0.0"
+	"version": "1.0.0",
+	"dependencies": 
+	{
+	"package-name": "version",
+	"express": "4.14.0",
+	"@freecodecamp/example":"1.1.0"
+	}
+}
 
 }
