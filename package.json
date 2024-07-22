@@ -1,6 +1,7 @@
 {
 	"author": "aaronarch5",
 	"description": "Proyecto NodeJS",
-	"keywords": [ "WebXR", "Cirugia", "freecodecamp" ]
+	"keywords": [ "WebXR", "Cirugia", "freecodecamp" ],
+	"license": "IPN"
 
 }
