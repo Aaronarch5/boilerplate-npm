@@ -1,4 +1,6 @@
 {
 	"author": "aaronarch5",
-	"description": "Proyecto NodeJS"
+	"description": "Proyecto NodeJS",
+	"keywords": [ "WebXR", "Cirugia", "Laparoscopia" ]
+
 }
