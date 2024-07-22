@@ -13,6 +13,6 @@
 	},
 	"repository": {
 	  "type": "git",
-	  "url": "https://github.com/Aaronarch5/boilerplate-npm"
+	  "url": "https://github.com/Aaronarch5/boilerplate-npm.git"
 	}
   }
